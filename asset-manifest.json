@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b0581fc.css",
-    "main.js": "/static/js/main.b2ac9ec0.js",
-    "static/js/453.ece76737.chunk.js": "/static/js/453.ece76737.chunk.js",
-    "index.html": "/index.html",
-    "main.3b0581fc.css.map": "/static/css/main.3b0581fc.css.map",
-    "main.b2ac9ec0.js.map": "/static/js/main.b2ac9ec0.js.map",
-    "453.ece76737.chunk.js.map": "/static/js/453.ece76737.chunk.js.map"
+    "main.css": "/fraud_prediction_frontend/static/css/main.3b0581fc.css",
+    "main.js": "/fraud_prediction_frontend/static/js/main.d9c4bd85.js",
+    "static/js/453.ece76737.chunk.js": "/fraud_prediction_frontend/static/js/453.ece76737.chunk.js",
+    "index.html": "/fraud_prediction_frontend/index.html",
+    "main.3b0581fc.css.map": "/fraud_prediction_frontend/static/css/main.3b0581fc.css.map",
+    "main.d9c4bd85.js.map": "/fraud_prediction_frontend/static/js/main.d9c4bd85.js.map",
+    "453.ece76737.chunk.js.map": "/fraud_prediction_frontend/static/js/453.ece76737.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b0581fc.css",
-    "static/js/main.b2ac9ec0.js"
+    "static/js/main.d9c4bd85.js"
   ]
 }

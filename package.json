@@ -2,6 +2,7 @@
   "name": "digital-onboarding-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://abhijeet145.github.io/fraud_prediction_frontend",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
